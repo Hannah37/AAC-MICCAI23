@@ -4,7 +4,7 @@ Official code of "Anti-Adversarial Consistency Regularization for Data Augmentat
 [paper link](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_53)
 
 
----
+```
 @inproceedings{cho2023anti,
   title={Anti-adversarial Consistency Regularization for Data Augmentation: Applications to Robust Medical Image Segmentation},
   author={Cho, Hyuna and Han, Yubin and Kim, Won Hwa},
@@ -13,4 +13,4 @@ Official code of "Anti-Adversarial Consistency Regularization for Data Augmentat
   year={2023},
   organization={Springer}
 }
----
+```
