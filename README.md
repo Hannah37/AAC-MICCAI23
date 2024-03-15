@@ -4,6 +4,7 @@ Official code of "Anti-Adversarial Consistency Regularization for Data Augmentat
 [paper link](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_53)
 
 
+If you use AAC in a scientific publication, we would appreciate using the following citations:
 ```
 @inproceedings{cho2023anti,
   title={Anti-adversarial Consistency Regularization for Data Augmentation: Applications to Robust Medical Image Segmentation},
